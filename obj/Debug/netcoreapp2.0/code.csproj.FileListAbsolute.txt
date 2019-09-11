@@ -1,0 +1,11 @@
+D:\23PlayerClass\code\bin\Debug\netcoreapp2.0\code.deps.json
+D:\23PlayerClass\code\bin\Debug\netcoreapp2.0\code.runtimeconfig.json
+D:\23PlayerClass\code\bin\Debug\netcoreapp2.0\code.runtimeconfig.dev.json
+D:\23PlayerClass\code\bin\Debug\netcoreapp2.0\code.dll
+D:\23PlayerClass\code\bin\Debug\netcoreapp2.0\code.pdb
+D:\23PlayerClass\code\obj\Debug\netcoreapp2.0\code.csprojAssemblyReference.cache
+D:\23PlayerClass\code\obj\Debug\netcoreapp2.0\code.csproj.CoreCompileInputs.cache
+D:\23PlayerClass\code\obj\Debug\netcoreapp2.0\code.AssemblyInfoInputs.cache
+D:\23PlayerClass\code\obj\Debug\netcoreapp2.0\code.AssemblyInfo.cs
+D:\23PlayerClass\code\obj\Debug\netcoreapp2.0\code.dll
+D:\23PlayerClass\code\obj\Debug\netcoreapp2.0\code.pdb
